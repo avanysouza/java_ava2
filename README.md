@@ -1,7 +1,7 @@
 # Desenvolvimento de projeto de aplicação com uso de vetores de objetos com tratamento de exceções
 
 ## Descrição
-Exercício realizado para avaliação da disciplina "Programação Orientada a Objetos I" da minha graduação em Sistemas de Informação.
+Exercício realizado para avaliação da disciplina "Programação Orientada a Objetos I" da minha graduação/licenciatura em Sistemas de Informação.
 
 ## Enunciado
 O uso de vetores e matrizes de objetos pode facilitar muito o desenvolvimento de determinados projetos, facilitando o desenvolvimento, diminuindo a complexidade e favorecendo a manutenção do sistema.
